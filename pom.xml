@@ -19,7 +19,7 @@
         <dubbo.version>2.7.6</dubbo.version>
         <curator.version>2.13.0</curator.version>
         <lombok.version>1.18.4</lombok.version>
-        <fastjson.version>1.2.53</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
